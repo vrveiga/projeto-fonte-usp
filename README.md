@@ -34,6 +34,9 @@ Aviso: O valor de capacitor no video foi alterado de 470uF para 560uF, o que alt
 
 ## Integrantes do Grupo:
 Felipe Cerri
+
 Natalie Coelho
+
 Nicolas Maia
+
 Vitor Veiga
