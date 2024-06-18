@@ -1,4 +1,4 @@
-# Fonte de Tensão Ajustável desenvolvido na disciplina de Eletrônica.
+# Fonte de Tensão Ajustável (3V-12V) - SSC0180
 
 ## Diagrama da Fonte
 
