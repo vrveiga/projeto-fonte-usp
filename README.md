@@ -1,6 +1,4 @@
-# projeto-fonte-usp
-
-## Fonte de Tensão Ajustável desenvolvido na disciplina de Eletrônica.
+# Fonte de Tensão Ajustável desenvolvido na disciplina de Eletrônica.
 
 ## Diagrama da Fonte
 
