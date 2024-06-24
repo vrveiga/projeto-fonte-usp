@@ -1,5 +1,10 @@
 # Fonte de Tensão Ajustável (3V-12V) - SSC0180
 
+## Objetivo
+Montar uma Fonte com tensão ajustável entre 3V a 12V com capacidade de 100mA
+
+O projeto foi feito durante a disciplina de Eletrônica para Computação na USP - São Carlos
+
 ## Cálculos da Fonte
 ![Calculos](calculos.png)
 
