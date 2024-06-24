@@ -8,7 +8,9 @@ O projeto foi feito durante a disciplina de Eletrônica para Computação na USP
 ## Cálculos da Fonte
 ![Calculos](calculos.png)
 
-## Lista de Componentes
+## Componentes
+
+## Preços
 | Quantidade | Componente | Valor Unitário | Valor Total|
 |--------------|------------|-------|--------|
 | 01 | Protoboard 400P | 21,70 | 21,70 |
@@ -22,6 +24,7 @@ O projeto foi feito durante a disciplina de Eletrônica para Computação na USP
 | 50 | Resistor 3K3 | 0,08 | 4,00 |  
 | 50 | Resistor 680R | 0,08 | 4,00 |
 |**Total:** | | | **50,63** |
+_*Os Componentes foram comprados na Pinhé_
 
 ## Circuito no Falstad:
 ![Falstad](falstad.png)
