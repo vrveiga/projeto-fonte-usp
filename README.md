@@ -24,10 +24,13 @@
 Link para Simulação: https://tinyurl.com/2bf3h89p
 
 ## Esquemátido no EAGLE
+![Esquematico](esquematicopaia.jpeg)
 
 ## PCB no EAGLE
+![PCB](pcbpaia.jpeg)
 
 ## Fotos do Protoboard
+![Protoboard]()
 
 ## Vídeo mostrando o projeto
 https://youtu.be/0L9eRKaqJ-0
