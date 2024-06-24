@@ -1,42 +1,42 @@
 # Fonte de Tensão Ajustável (3V-12V) - SSC0180
 
-## Diagrama da Fonte
-
+## Cálculos da Fonte
+![Calculos](calculos.png)
 
 ## Lista de Componentes
-| Quantidade | Componentes        | Valor R$ |
-|------------|--------------------|----------|
-| 5x         | Diodo 1N4001       | [R$ 0,15  x  5 = R$0,75](https://www.baudaeletronica.com.br/diodo-1n4001.html) |
-| 1          | Capacitor 560uF    | [R$ 1,35](https://produto.mercadolivre.com.br/MLB-1224395161-capacitor-560uf25v-samwha-105-8x20mm-560uf-25v-kit-c10-pc-_JM?matt_tool=79246729&matt_word&gclid=Cj0KCQjw6PD3BRDPARIsAN8pHuE09_vpTP-94KUv8B484TN9yoMPKdl6mD5vyV6dcl-4E9XVeMutZqQaAnpaEALw_wcB&quantity=1) |
-| 1          | Led Vermelho 5mm   | [R$ 0,25](https://www.baudaeletronica.com.br/led-difuso-5mm-vermelho.html) |
-| 2          | Resistor 1k ohm    | [R$ 0,08 x 2 = R$0,16](https://www.baudaeletronica.com.br/resistor-1k-5-1-4w.html) |
-| 1          | Resistor 120 ohm   | [R$ 0,08](https://www.baudaeletronica.com.br/resistor-120r-5-1-4w.html) |
-| 1          | Resistor 2.2k      | [R$ 0,10](https://daeletrica.com.br/resistor-2-2k-1-4w-x10-unidades.html) |
-| 1          | Potenciômetro  5k  | [R$ 1,15](https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html) |
-| 1          | Diodo Zener (13v)  | [R$ 0,21](https://www.baudaeletronica.com.br/diodo-zener-1n4743-13v-1w.html) |
-| 1          | Transistor NPN     | [R$ 0,18](https://www.baudaeletronica.com.br/transistor-npn-bc548.html) |
-| 1          | Transformador      | [R$ 22,99](https://produto.mercadolivre.com.br/MLB-989883391-transformador-trafo-1212v-200ma-bivolt-eletronica-eletrica-_JM?quantity=1#position=1&type=item&tracking_id=9abf8c61-6492-4e02-bb1d-d1a22f9b055d) |
-| 1          | Fusível            | [R$ 0,20](https://produto.mercadolivre.com.br/MLB-1215177820-100-pecas-fusivel-vidro-pequeno-5x20-100ma-promoco-_JM?matt_tool=82322591&matt_word&gclid=CjwKCAjw_-D3BRBIEiwAjVMy7KL-xfYxsBZ2ISQ6MRvXKc2D47XdN2jg_2NzGVHaAz0weXOF5UQ18RoCmSgQAvD_BwE&quantity=1) |
- | 1         | Varistor           | [R$ 0,72](https://produto.mercadolivre.com.br/MLB-802196375-50x-varistor-150v-10k-241-_JM?quantity=1#reco_item_pos=1&reco_backend=machinalis-seller-items-pdp&reco_backend_type=low_level&reco_client=vip-seller_items-above&reco_id=6a1c9055-dc87-4ed6-b1dd-cb4f8ae5d41d) |
-| **Total**  |                    |  R$ 28,14 |
+| Quantidade | Componente | Valor Unitário | Valor Total|
+|--------------|------------|-------|--------|
+| 01 | Protoboard 400P | 21,70 | 21,70 |
+| 01 | Potenciômetro 10K | 4,50 | 4,50 |
+| 01 | Capacitor 470μF 63V | 3,46 | 3,46 |
+| 01 | Ponte Retificadora 2A 1000V | 1,87 | 1,87 |
+| 01 | Led 5mm Vermelho | 0,40 | 0,40 |
+| 10 | Transistor NPN BC-337 | 0,62 | 6,20 | 
+| 01 | Diodo Zenner 13V 1W | 0,50 | 0,50 |
+| 50 | Resistor 4K7 | 0,08 | 4,00 |
+| 50 | Resistor 3K3 | 0,08 | 4,00 |  
+| 50 | Resistor 680R | 0,08 | 4,00 |
+|**Total:** | | | **50,63** |
 
-## Link do circuito no Falstad:
+## Circuito no Falstad:
+![Falstad](falstad.png)
 
+Link para Simulação: https://tinyurl.com/2bf3h89p
 
-## Projeto do esquemátido e do PCB no EAGLE
+## Esquemátido no EAGLE
+
+## PCB no EAGLE
 
 ## Fotos do Protoboard
 
 ## Vídeo mostrando o projeto
 https://youtu.be/0L9eRKaqJ-0
 
-Aviso: O valor de capacitor no video foi alterado de 470uF para 560uF, o que alterou um pouco os preços também.
-
 ## Integrantes do Grupo:
-Felipe Cerri
+Felipe Cerri - 15451119
 
-Natalie Coelho
+Natalie Coelho - 15481332
 
-Nicolas Maia
+Nicolas Maia - 15481857
 
-Vitor Veiga
+Vitor Veiga - 15492449
