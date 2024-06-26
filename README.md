@@ -9,6 +9,23 @@ O projeto foi feito durante a disciplina de Eletrônica para Computação na USP
 ![Calculos](calculos.png)
 
 ## Componentes
+### Transformador
+Componente que modifica a tensão que entra no circuito, transformando a voltagem de entrada em níveis mais compatíveis com as necessidades do circuito. No projeto, foi utilizado um transformador de 127V para aproximadamente 25V.
+	
+### Ponte de Diodos
+Um componente retificador de corrente, a  ponte permite que o circuito seja alimentado por ambos os sentidos da corrente alternada, por meio da conversão da metade negativa do ciclo da onda em tensão positiva.
+
+### Capacitor
+Componente utilizado para reduzir a variação da tensão, ou seja, diminuir o ripple. A corrente cedida pelo capacitor alimenta o circuito quando a tensão diminui e o transformador reabastece o capacitor quando a tensão volta a aumentar.
+
+### Diodo Zener
+Esse componente permite a passagem de corrente em um único sentido a partir de determinado valor de tensão, e, quando esse valor é atingido, a tensão máxima entre os terminais do diodo  fica constante. Por isso, o diodo zener é um regulador de tensão, que define a tensão máxima do circuito ajustando aquela que sai do capacitor para um valor abaixo do ripple.
+
+### Potenciômetro
+Um componente de resistência regulável, ele permite o ajuste da corrente dissipada pelo circuito para que seja possível controlar a tensão fornecida pela fonte em um certo intervalo de valores.
+
+### Transistor
+Componente responsável por direcionar a corrente até a saída, sem passar pelo diodo zener, ainda que aproveite a tensão fornecida por esse componente. Isso permite que o valor da corrente na saída atenda às especificações da fonte.
 
 ## Preços
 | Quantidade | Componente | Valor Unitário | Valor Total|
@@ -32,10 +49,10 @@ _*Os Componentes foram comprados na Pinhé_
 Link para Simulação: https://tinyurl.com/2bf3h89p
 
 ## Esquemátido no EAGLE
-![Esquematico](esquematicopaia.jpeg)
+![Esquematico](fonteCircuito.png)
 
 ## PCB no EAGLE
-![PCB](pcbpaia.jpeg)
+![PCB](fontePCB.png)
 
 ## Fotos do Protoboard
 ![Protoboard]()
