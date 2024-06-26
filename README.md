@@ -41,6 +41,7 @@ Componente responsável por direcionar a corrente até a saída, sem passar pelo
 | 50 | Resistor 3K3 | 0,08 | 4,00 |  
 | 50 | Resistor 680R | 0,08 | 4,00 |
 |**Total:** | | | **50,63** |
+
 _*Os Componentes foram comprados na Pinhé_
 
 ## Circuito no Falstad:
