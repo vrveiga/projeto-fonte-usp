@@ -45,7 +45,7 @@ Componente responsável por direcionar a corrente até a saída, sem passar pelo
 _*Os Componentes foram comprados na Pinhé_
 
 ## Circuito no Falstad:
-![Falstad](falstad.png)
+![Falstad](image.png)
 
 Link para Simulação: https://tinyurl.com/2bf3h89p
 
