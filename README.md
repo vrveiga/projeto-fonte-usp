@@ -47,7 +47,7 @@ _*Os Componentes foram comprados na Pinhé_
 ## Circuito no Falstad:
 ![Falstad](image.png)
 
-Link para Simulação: https://tinyurl.com/2bf3h89p
+Link para Simulação: https://tinyurl.com/2fwxy7yx
 
 ## Esquemátido no EAGLE
 ![Esquematico](fonteCircuito.png)
