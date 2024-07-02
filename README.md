@@ -59,7 +59,7 @@ Link para Simulação: https://tinyurl.com/2fwxy7yx
 ![Protoboard]()
 
 ## Vídeo mostrando o projeto
-https://youtu.be/rXFI7M6IArU](https://youtu.be/Ix5kuk5UYww?si=g9bpyh1hA5PPlOj5
+https://www.youtube.com/watch?v=Ix5kuk5UYww
 
 ## Integrantes do Grupo:
 Felipe Cerri - 15451119
