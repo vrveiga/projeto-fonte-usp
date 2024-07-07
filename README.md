@@ -55,9 +55,6 @@ Link para Simulação: https://tinyurl.com/2fwxy7yx
 ## PCB no EAGLE
 ![PCB](fontePCB.png)
 
-## Fotos do Protoboard
-![Protoboard]()
-
 ## Vídeo mostrando o projeto
 https://youtu.be/Ix5kuk5UYww?si=BeHg5510JxMcECdZ
 
